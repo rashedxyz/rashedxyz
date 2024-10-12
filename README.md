@@ -7,7 +7,7 @@ Web Developer
 Hello, I am Rashed. I am self-motivated and constantly experimenting with new web technologies and techniques. I am very passionate about web development and creating amazing web apps using clean and well-written code.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [rashed.webdev@gmail.com](mailto:rashed.webdev@gmail.com)
+* ✉️  You can contact me at [hello@rashedmahmud.com](mailto:hello@rashedmahmud.com.com)
 
 
 ### Socials
